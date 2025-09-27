@@ -1,28 +1,28 @@
-# Security Policy
+# Política de seguridad.
 
-The maintainers of the Moby project take security seriously. If you discover
-a security issue, please bring it to their attention right away!
+Los mantenedores del proyecto Moby toman en serio la seguridad. Si descubres
+Un problema de seguridad, por favor llévelo a su atención de inmediato!
 
-## Reporting a Vulnerability
+## Informar sobre una vulnerabilidad
 
-Please **DO NOT** file a public issue, instead send your report privately
-to [security@docker.com](mailto:security@docker.com).
+Por favor **NO** Presente un problema público, en su lugar envíe su informe de forma privada.
+a [security@docker.com](mailto:security@docker.com).
 
-Reporter(s) can expect a response within 72 hours, acknowledging the issue was
-received.
+Los reporteros pueden esperar una respuesta dentro de las 72 horas, reconociendo que el problema fue
+recibido.
 
-## Review Process
+## Proceso de revisión
 
-After receiving the report, an initial triage and technical analysis is
-performed to confirm the report and determine its scope. We may request
-additional information in this stage of the process.
+Después de recibir el informe, un triaje inicial y un análisis técnico es
+para confirmar el informe y determinar su alcance. Podemos solicitar
+información adicional en esta etapa del proceso.
 
-Once a reviewer has confirmed the relevance of the report, a draft security
-advisory will be created on GitHub. The draft advisory will be used to discuss
-the issue with maintainers, the reporter(s), and where applicable, other
-affected parties under embargo.
+Una vez que un revisor ha confirmado la relevancia del informe, un proyecto de seguridad
+Se creará asesoramiento en GitHub. El proyecto de asesoramiento se utilizará para debatir
+el problema con los mantenedores, el (los) reportero (s), y en su caso, otros
+partes afectadas bajo embargo.
 
-If the vulnerability is accepted, a timeline for developing a patch, public
+Si se acepta la vulnerabilidad, una línea de tiempo para desarrollar un parche, público
 disclosure, and patch release will be determined. If there is an embargo period
 on public disclosure before the patch release, the reporter(s) are expected to
 participate in the discussion of the timeline and abide by agreed upon dates

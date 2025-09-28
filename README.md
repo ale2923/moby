@@ -1,5 +1,4 @@
-The Moby Project
-================
+github.com/moby/moby/v2
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/moby/moby/v2)](https://pkg.go.dev/github.com/moby/moby/v2)
 ![GitHub License](https://img.shields.io/github/license/moby/moby)
